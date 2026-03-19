@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin xmlns="http://xmlns.pytha.com/plugin_config/1.0">
+  <header>
+    <guid>f95cc7a7-8f60-461b-a3d0-307980852be6</guid>
+    <version>1.0</version>
+    <pytha-version>25.0</pytha-version>
+    <name>Wardrobe Generator</name>
+    <description>Modular wardrobe generator with production-aware bill of materials output.</description>
+    <licensing>Sample plugin for educational and internal production workflow use.</licensing>
+  </header>
+  <extension type="function">
+    <entry-point>main</entry-point>
+    <caption>Wardrobe Generator</caption>
+    <description>Create modular wardrobes with partitions, shelves, drawers, and doors.</description>
+  </extension>
+</plugin>
